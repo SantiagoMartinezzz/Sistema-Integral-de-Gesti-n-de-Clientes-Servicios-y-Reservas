@@ -1,0 +1,6 @@
+Error cliente: Nombre inválido
+Error creando reserva: Duración inválida
+Error reserva: Duración inválida
+Reserva procesada: Sala A
+Reserva procesada: Proyector
+Reserva procesada: Consultoría
